@@ -5,6 +5,8 @@ html, body {
   font-family: 'Source Sans Pro', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
   border-top: 3px solid #27A822;
+  /* For RTL Usage */
+  direction: rtl;
 }
 
 /* Wrapper for page content to push down footer */
@@ -102,12 +104,12 @@ html, body {
  max-width: 100%;
 }
 .panel-default h4 {
-  text-align: left;
+  text-align: right;
   line-height: 24px;
   font-size: 22px;
 }
 .panel-default h5 {
-  text-align: left;
+  text-align: right;
   line-height: 30px;
   font-size: 18px;
 }
@@ -125,7 +127,7 @@ html, body {
 }
 .panel-body {
   padding-top: -10px;
-  text-align: left;
+  text-align: right;
 }
 .social-links {
   display: block;
@@ -170,7 +172,7 @@ html, body {
   padding-bottom: 15px;
 }
 .blogpost{
-  text-align: left;
+  text-align: right;
   line-height: 30px;
   font-size: 18px;
 }

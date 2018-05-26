@@ -1,4 +1,4 @@
-![Sustain - Logo][logo]
+<!-- ![Blogger - Logo][logo] -->
 
 ## Table of Contents
 
@@ -13,28 +13,28 @@
 - [Changelog](#changelog)
 - [License](#license)
 
-********************
+<!-- ******************** -->
 
-![Sustain Screen][screenshot]
+<!-- ![blogger Screen][screenshot] -->
 
-********************
+<!-- ******************** -->
 
-<p align="center"><b><a href="https://demo.nurlan.co/hugo-sustain/">Sustain Live Demo</a></b></p>
+<!-- <p align="center"><b><a href="https://demo.nurlan.co/hugo-blogger/">blogger Live Demo</a></b></p> -->
 
 ## Installation
 
 #### With `git`
 
-From the root of your Hugo site, clone the theme into `themes/hugo-sustain` by running :
+From the root of your Hugo site, clone the theme into `themes/hugo-blogger` by running :
 ```
-git clone https://github.com/nurlansu/hugo-sustain.git themes/hugo-sustain
+git clone https://github.com/saeidakbari/hugo-blogger.git themes/hugo-blogger
 ```
 
 #### Manual
 
 1. [Download][zip-archive] zip archive.
 2. Unarchive it.
-3. Move `hugo-sustain` folder in `themes` folder of your blog
+3. Move `hugo-blogger` folder in `themes` folder of your blog
 
 For more information read the official [setup guide][hugo-guide] of Hugo.
 
@@ -69,7 +69,7 @@ very handy. Spin it up with the following command:
 hugo serve
 ```
 
-Now you can go to [localhost:1313][local] and the Sustain
+Now you can go to [localhost:1313][local] and the blogger
 theme should be visible.
 
 ## Features
@@ -88,7 +88,7 @@ To add Google Analytics, simply sign up to [Google Analytics][g-analytics] to ob
 
 ## About
 
-This is a port of the Jekyll theme [Sustain][sustain-jekyll] by [Fábio Madeira][sustain-author]. It supports most of the features of the original theme.
+This is a port of the hugo theme [hugo-sustain][hugo-sustain] by [Chris Turner][#]. It supports most of the features of the original theme.
 
 ## Contributing
 
@@ -120,15 +120,15 @@ Pull requests, bug fixes, and new features are welcome!
 
 
 
-[logo]: https://i.nurlan.co/sustain.png
-[screenshot]: https://i.nurlan.co/sustain-screen.png
+<!-- [logo]: https://i.nurlan.co/blogger.png -->
+[screenshot]: https://i.nurlan.co/blogger-screen.png
 [bootstrap]: https://getbootstrap.com/
 [hugo]: https://gohugo.io/
 [gh-pages]: https://pages.github.com/
-[zip-archive]: https://github.com/nurlansu/hugo-sustain/archive/master.zip
+[zip-archive]: https://github.com/saeidakbari/hugo-blogger/archive/master.zip
 [hugo-guide]: https://gohugo.io/overview/installing/
 [local]: http://localhost:1313/
 [highlight-js]: https://highlightjs.org/
 [g-analytics]: https://www.google.com/analytics/
-[sustain-jekyll]: https://github.com/biomadeira/sustain/
-[sustain-author]: https://github.com/biomadeira/
+[hugo-sustain]: https://github.com/sustain/hugo-sustain/
+<!-- [blogger-author]: https://github.com/biomadeira/ -->
